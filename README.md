@@ -1,12 +1,12 @@
 # Mini EJS Demo
 ## To run project:
 - install first:
-```sh
+   ```sh
 npm install
-```
+   ```
 - then run:
   ```sh
-  noder server
+  node server
   ```
 ## Further reference:
 [EJS Syntax](https://ejs.co/)
